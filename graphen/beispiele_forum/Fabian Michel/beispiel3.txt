@@ -1,0 +1,509 @@
+# Anzahl der Kreuzungen, Anzahl der Strassenabschnitte
+200 304
+# Kreuzungen mit Koordinaten
+aa 2 34
+ab 4 28
+ac 8 32
+ad 6 34
+ae 12 32
+af 12 28
+ag 6 24
+ah 10 24
+ai 12 22
+aj 14 22
+ak 16 26
+al 16 30
+am 16 34
+an 20 34
+ao 22 28
+ap 20 26
+aq 10 28
+ar 8 28
+as 4 24
+at 4 20
+au 8 20
+av 10 20
+aw 16 20
+ax 18 20
+ay 18 26
+az 18 28
+ba 20 30
+bb 12 36
+bc 10 36
+bd 0 28
+be 0 26
+bf 0 22
+bg 4 18
+bh 8 18
+bi 10 18
+bj 14 16
+bk 16 14
+bl 20 14
+bm 20 20
+bn 22 22
+bo 24 24
+bp 24 30
+bq 22 32
+br 24 32
+bs 28 30
+bt 28 26
+bu 26 22
+bv 26 18
+bw 28 16
+bx 24 14
+by 22 12
+bz 16 10
+ca 14 10
+cb 10 10
+cc 6 12
+cd 4 14
+ce 2 14
+cf 10 14
+cg 14 14
+ch 20 18
+ci 24 18
+cj 26 20
+ck 28 24
+cl 30 28
+cm 28 32
+cn 28 36
+co 34 34
+cp 36 32
+cq 38 28
+cr 34 24
+cs 32 22
+ct 34 18
+cu 34 26
+cv 32 30
+cw 34 28
+cx 36 16
+cy 34 14
+cz 30 12
+da 28 10
+db 26 8
+dc 24 8
+dd 20 8
+de 16 6
+df 14 6
+dg 10 8
+dh 12 4
+di 16 4
+dj 22 4
+dk 24 4
+dl 28 6
+dm 32 8
+dn 34 10
+do 36 12
+dp 38 14
+dq 40 18
+dr 36 20
+ds 32 20
+dt 30 18
+du 26 24
+dv 16 24
+dw 14 24
+dx 14 26
+dy 14 30
+dz 14 32
+ea 18 32
+eb 20 32
+ec 22 36
+ed 24 36
+ee 28 34
+ef 30 34
+eg 38 34
+eh 40 30
+ei 40 26
+ej 40 24
+ek 40 22
+el 42 20
+em 44 20
+en 42 16
+eo 42 14
+ep 40 12
+eq 40 10
+er 38 8
+es 36 10
+et 32 12
+eu 30 14
+ev 26 12
+ew 24 12
+ex 20 10
+ey 18 12
+ez 18 16
+fa 14 18
+fb 12 18
+fc 10 16
+fd 8 16
+fe 2 18
+ff 0 18
+fg 2 20
+fh 2 26
+fi 6 28
+fj 6 30
+fk 4 32
+fl 4 34
+fm 24 28
+fn 26 26
+fo 30 22
+fp 30 20
+fq 32 10
+fr 34 4
+fs 32 4
+ft 26 2
+fu 28 2
+fv 30 2
+fw 36 4
+fx 36 8
+fy 40 6
+fz 42 6
+ga 42 12
+gb 44 14
+gc 46 16
+gd 46 18
+ge 46 20
+gf 46 24
+gg 44 26
+gh 42 30
+gi 42 32
+gj 46 30
+gk 44 28
+gl 42 24
+gm 44 22
+gn 48 28
+go 48 26
+gp 50 24
+gq 50 20
+gr 50 18
+gs 48 14
+gt 46 12
+gu 44 10
+gv 46 8
+gw 46 6
+gx 42 4
+gy 40 2
+gz 36 2
+ha 30 0
+hb 26 0
+hc 20 0
+hd 18 0
+he 16 0
+hf 14 2
+hg 10 2
+hh 10 4
+hi 6 8
+hj 4 8
+hk 4 6
+hl 6 4
+hm 8 6
+hn 2 10
+ho 2 12
+hp 50 10
+hq 50 14
+hr 48 12
+# Strassenabschnitte: Anzahl, Liste (1 pro Zeile)
+304
+aa fk
+fk fl
+fl aa
+fl ad
+fk ad
+ad bc
+bc ac
+ac ad
+ad fj
+fj fk
+fj ac
+ac aq
+fj fi
+fi ar
+ar ah
+ah aq
+fi ab
+ab aa
+ab bd
+bd fh
+fh ab
+ab ag
+ag ah
+as fh
+fh be
+fh bf
+bf fg
+fg at
+at as
+as ag
+ag au
+au at
+at bh
+bh au
+bi au
+bh bi
+av ai
+ah ai
+ai fb
+fb fc
+fc bi
+fc fd
+fd bg
+bg fe
+fe ff
+fe ce
+ce bg
+bg cd
+cd fd
+fd cf
+cf fc
+cf cc
+cd cc
+ai aj
+aj aw
+dw aj
+dx af
+aq af
+ah dx
+dx dv
+dv ak
+ak bm
+bm ax
+ax aw
+ax ez
+ez ch
+ch bn
+bm bn
+bn ci
+ci ch
+bb bc
+bb dz
+ae dz
+dz dy
+dy al
+al am
+am dz
+am az
+az ea
+ea eb
+eb am
+am an
+an bq
+bq br
+br cm
+am ec
+ec cm
+ec ed
+ed ee
+ee cn
+ed cn
+cn ef
+ef cm
+cm bs
+br bp
+bp bt
+bt bs
+fm bp
+ba ao
+ba bq
+ao fm
+ao ap
+ay ap
+ap bo
+bo fm
+ao bo
+bo bn
+bo du
+du bt
+fn du
+du ck
+ck cu
+cu cr
+cr ck
+ck cw
+cw cl
+cl ef
+ef cv
+bs cl
+cv cp
+cv cw
+cv cl
+co cp
+co cv
+co eg
+eg cp
+co cn
+cp cq
+cq cw
+cq eh
+eh gh
+gh gk
+gk gj
+gi gh
+gk gg
+gg gn
+gn gk
+gj gn
+gn go
+go gf
+go gp
+gp ge
+ge gf
+gf gg
+gf gl
+gl gg
+gg ei
+ei cq
+ei ej
+ej ek
+ej gl
+gl gm
+gm em
+em gd
+gd gc
+gc gb
+gb en
+en el
+el em
+el dq
+dq ek
+ek el
+el gm
+ge gd
+gd gr
+gr gq
+gq gd
+gd gs
+gs gr
+gr hq
+hq gs
+gs gt
+gt gb
+gt hr
+hr gv
+gv hp
+hp gw
+gw gu
+gu fz
+fz gx
+gu gt
+gt ga
+ga gb
+gb eo
+ep eq
+eq fz
+ep dp
+dp cx
+cx dr
+dr cr
+dr cq
+dr ek
+dr ct
+ct ds
+ds fo
+fo cs
+cs cr
+fo fp
+fp dt
+dt ds
+dt bv
+bv cj
+cj bu
+bu bo
+bu ck
+bu fp
+fp cj
+cj ci
+ci bw
+bw bx
+bw eu
+eu ct
+ct cy
+cy cx
+ez bl
+bk ez
+ez ey
+ey ex
+ey dd
+ey bz
+bk cg
+cg bz
+bz ca
+ca cb
+cb bj
+bj fa
+cf bj
+cf cb
+cc dg
+dg cb
+cb cc
+ce ho
+ho hn
+hn hj
+hj hk
+hj hi
+hi hm
+hm hl
+hl hk
+hk hm
+hi cc
+cc hn
+cd ho
+hm hh
+hh dh
+dh ca
+dh dg
+hg hf
+hf di
+di de
+de df
+dh df
+df bz
+bz dj
+dd dj
+dj hd
+hd he
+hd hc
+hc hb
+hb ft
+ft dk
+dk dj
+dk dc
+dc db
+db dl
+dl dk
+dl fu
+fu fv
+fv ha
+fv fs
+fs dl
+dl da
+da db
+da ev
+ev ew
+ew by
+by bl
+da cz
+cz eu
+cz et
+et fq
+fq do
+do es
+es dn
+do cy
+do cx
+es er
+er eq
+eq do
+es fx
+fx fr
+fr dm
+dm dn
+fs fr
+fs dm
+fx gy
+fx fw
+fw gy
+gy gz
+gz fv
+gz ha
+gz fr
+gz fw
+fy er

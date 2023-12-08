@@ -1,0 +1,181 @@
+# Anzahl der Kreuzungen, Anzahl der Strassenabschnitte
+72 104
+# Kreuzungen mit Koordinaten
+A 0 0
+B 4 0
+C 6 0
+D 10 0
+E 12 0
+F 14 0
+G 18 0
+H 24 0
+I 2 2
+J 6 2
+K 8 2
+L 16 2
+M 18 2
+N 22 2
+O 6 4
+P 8 4
+Q 14 4
+R 16 4
+S 20 4
+T 22 4
+U 24 4
+V 4 6
+W 10 6
+X 14 6
+Y 16 6
+Z 18 6
+a 22 6
+b 0 8
+c 6 8
+d 8 8
+e 10 8
+f 16 8
+g 20 8
+h 0 10
+i 2 10
+j 4 10
+k 8 10
+l 12 10
+m 16 10
+n 18 10
+o 22 10
+p 24 10
+q 2 12
+r 6 12
+s 8 12
+t 10 12
+u 12 12
+v 14 12
+w 18 12
+x 22 12
+y 4 14
+z 8 14
+0 12 14
+1 14 14
+2 16 14
+3 18 14
+4 24 14
+5 6 16
+6 10 16
+7 2 18
+8 10 18
+9 12 18
+10 18 18
+11 20 18
+12 22 18
+13 0 20
+14 2 20
+15 6 20
+16 8 20
+17 10 20
+18 16 20
+19 18 20
+# Strassenabschnitte: Anzahl, Liste (1 pro Zeile)
+104
+A I
+B I
+B J
+B C
+C D
+D K
+D E
+E F
+F Q
+F L
+G M
+G H
+H N
+I V
+I O
+J O
+K P
+L Q
+M Z
+M S
+N T
+N U
+O c
+P W
+Q Y
+Q R
+S a
+T U
+U a
+V b
+V j
+W e
+W X
+X f
+Y f
+Y Z
+Z g
+a p
+b h
+c d
+d k
+d e
+e t
+e l
+f m
+f g
+g n
+g o
+h q
+i q
+i j
+j q
+k t
+l m
+m v
+m w
+n w
+n o
+o p
+q 13
+q 7
+q y
+r y
+r z
+s t
+t z
+t u
+u 0
+u v
+v 1
+v 2
+w 3
+x 12
+x 4
+y 5
+z 5
+z 6
+0 9
+0 1
+2 9
+2 10
+2 3
+3 10
+3 11
+3 12
+4 12
+5 15
+5 16
+5 6
+6 8
+7 14
+8 16
+8 17
+8 9
+9 17
+9 18
+10 19
+10 11
+11 19
+11 12
+13 14
+14 15
+16 17
+18 19
