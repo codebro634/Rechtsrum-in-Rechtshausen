@@ -1,5 +1,5 @@
 # Rechtsrum-in-Rechtshausen
-My submission for the exercise **Rechtsrum in Rechtshausen** of the 35th [**Bundeswettbewerb Informatik**](https://bwinf.de/bundeswettbewerb/) in 2016/17.
+My submission for the exercise **Rechtsrum in Rechtshausen** of the 35th [**Bundeswettbewerb Informatik**](https://bwinf.de/bundeswettbewerb/) 2016/17.
 
 The detailed task description can be found in **Aufgabenstellung.pdf** which in sum was to devise an efficient algorithm
 to find the shortest path on a grid graph with the restriction that no left turns are allowed. 
