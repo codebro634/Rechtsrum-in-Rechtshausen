@@ -14,3 +14,6 @@ The following shows the GUI:
 
 The jar **Rechtsrum_in_Rechtshausen.jar** was compiled with Java compiler version 7 (51.0) and example graphs to run the 
 algorithm on can be found in the folder **graphs**.
+
+# Java version
+The source code is written for Java 7 (51) and the .jar was compiled with the same version.
